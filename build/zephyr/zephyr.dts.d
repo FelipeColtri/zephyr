@@ -1,0 +1,29 @@
+empty_file.o: \
+ /home/menta/zephyrproject/zephyr/samples/zephyr_app/zephyr/misc/empty_file.c \
+ /home/menta/zephyrproject/zephyr/samples/zephyr_app/zephyr/boards/arm/nucleo_g474re/nucleo_g474re.dts \
+ /home/menta/zephyrproject/zephyr/dts/arm/st/g4/stm32g474Xe.dtsi \
+ /home/menta/zephyrproject/zephyr/dts/common/mem.h \
+ /home/menta/zephyrproject/zephyr/dts/arm/st/g4/stm32g474.dtsi \
+ /home/menta/zephyrproject/zephyr/dts/arm/st/g4/stm32g473.dtsi \
+ /home/menta/zephyrproject/zephyr/dts/arm/st/g4/stm32g491.dtsi \
+ /home/menta/zephyrproject/zephyr/dts/arm/st/g4/stm32g4.dtsi \
+ /home/menta/zephyrproject/zephyr/dts/arm/armv7-m.dtsi \
+ /home/menta/zephyrproject/zephyr/dts/common/skeleton.dtsi \
+ /home/menta/zephyrproject/zephyr/include/zephyr/dt-bindings/clock/stm32g4_clock.h \
+ /home/menta/zephyrproject/zephyr/include/zephyr/dt-bindings/i2c/i2c.h \
+ /home/menta/zephyrproject/zephyr/include/zephyr/dt-bindings/gpio/gpio.h \
+ /home/menta/zephyrproject/zephyr/include/zephyr/dt-bindings/pwm/pwm.h \
+ /home/menta/zephyrproject/zephyr/include/zephyr/dt-bindings/adc/adc.h \
+ /home/menta/zephyrproject/zephyr/include/zephyr/dt-bindings/pwm/stm32_pwm.h \
+ /home/menta/zephyrproject/zephyr/include/zephyr/dt-bindings/dma/stm32_dma.h \
+ /home/menta/zephyrproject/zephyr/include/zephyr/dt-bindings/adc/stm32l4_adc.h \
+ /home/menta/zephyrproject/zephyr/include/zephyr/dt-bindings/adc/stm32_adc.h \
+ /home/menta/zephyrproject/zephyr/include/zephyr/dt-bindings/reset/stm32g4_l4_5_reset.h \
+ /home/menta/zephyrproject/zephyr/include/zephyr/dt-bindings/reset/stm32-common.h \
+ /home/menta/zephyrproject/zephyr/dts/common/freq.h \
+ /home/menta/zephyrproject/modules/hal/stm32/dts/st/g4/stm32g474r(b-c-e)tx-pinctrl.dtsi \
+ /home/menta/zephyrproject/zephyr/include/zephyr/dt-bindings/pinctrl/stm32-pinctrl.h \
+ /home/menta/zephyrproject/zephyr/include/zephyr/dt-bindings/pinctrl/stm32-pinctrl-common.h \
+ /home/menta/zephyrproject/zephyr/samples/zephyr_app/zephyr/boards/arm/nucleo_g474re/arduino_r3_connector.dtsi \
+ /home/menta/zephyrproject/zephyr/include/zephyr/dt-bindings/input/input-event-codes.h \
+ /home/menta/zephyrproject/zephyr/samples/zephyr_app/boards/nucleo_g474re.overlay
